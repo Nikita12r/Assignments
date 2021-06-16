@@ -1,15 +1,15 @@
 # Assignments 
 
-##Notes API
+## Notes API
 The application is developed to get data from json using GET,POST,PUT,DELETE actions using the Notes API.
 
-##Setup
+## Setup
 Download/clone the project from the repo.
 
-##Structure
-# /api - This folder has routes file wherein all the routes has been defined.
-# /data - This folder has NotesData.json file which is the main input source of api.
-# /services - This folder has controller.js file which has the logic for api functioning.
+## Structure
+#/api - This folder has routes file wherein all the routes has been defined.
+#/data - This folder has NotesData.json file which is the main input source of api.
+#/services - This folder has controller.js file which has the logic for api functioning.
 
 ##Usage
 1.Open command prompt (Start -> Run -> cmd)
