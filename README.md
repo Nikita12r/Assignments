@@ -27,3 +27,7 @@ Download/clone the project from the repo.
 
 ## API Execution
 Api can be tested on Postman.
+  
+## Validation
+  1. While creating new note the Notes_Type should be a 2 digit Number and Notes_Id should be unique.
+  2. While Updating existing note the Notes_Type should be a 2 digit Number.
